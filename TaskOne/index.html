@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="icon" type="image/x-icon" href="/imgs/to-do-list.png">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 style="color: #DCF2F1;">To-Do List</h1>
+            </div>
+        </div>
+        <br>
+        <input type="text" id="taskInput"  class="form-control"  placeholder="Enter task">
+        <br>
+        <div class="row">
+            <div class="col text-center">
+                <button onclick="addTask()" style="background-color: #070F2B;" >Add Task</button>
+            </div>
+        </div>
+        <label for="taskTitle" > Tasks </label>
+        <br>
+        <ul id="taskList"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
