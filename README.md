@@ -17,8 +17,6 @@ This project is a simple To-Do List web application built using HTML, CSS, and J
 * **HTML**: Used for structuring the web page and defining the elements of the user interface.
 * **CSS**: Employed for styling the appearance of the web page and enhancing user experience.
 * **JavaScript**: Implemented to add interactivity and functionality to the web application, enabling dynamic task management and manipulation.
-* **Local Storage**: Utilized to store tasks locally within the user's browser, ensuring data persistence across sessions.
-
 ### Getting Started
 
 To run this application locally, simply clone the repository and open the `index.html` file in your preferred web browser.
