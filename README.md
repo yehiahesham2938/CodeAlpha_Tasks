@@ -42,7 +42,7 @@ This project aims to develop a web app that displays real-time weather informati
 
 ### Getting Started
 
-To run the weather dashboard locally, clone the repository and open the index.html file in your preferred web browser. Ensure that you have an active internet connection to fetch real-time weather data from APIs.
+To run the weather dashboard locally, clone the repository and open the `index.html` file in your preferred web browser. Ensure that you have an active internet connection to fetch real-time weather data from APIs.
 
 ### Contributors
 
