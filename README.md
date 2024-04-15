@@ -21,7 +21,9 @@ This project is a simple To-Do List web application built using HTML, CSS, and J
 
 To run this application locally, simply clone the repository and open the `index.html` file in your preferred web browser.
 No additional dependencies or setup are required.
---------
+
+---
+
 ## [Task Two](https://github.com/yehiahesham2938/codealpha_tasks/tree/main/TaskTwo)
 **Weather Dashboard**
 
